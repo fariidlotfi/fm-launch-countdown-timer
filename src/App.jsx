@@ -77,9 +77,9 @@ function App() {
         </div>
       </section>
       <section className="socials">
-        <img src="/icon-facebook.svg" alt="facebook" />
-        <img src="/icon-pinterest.svg" alt="pinterest" />
-        <img src="/icon-instagram.svg" alt="instagram" />
+        <img src="icon-facebook.svg" alt="facebook" />
+        <img src="icon-pinterest.svg" alt="pinterest" />
+        <img src="icon-instagram.svg" alt="instagram" />
       </section>
     </main>
   );
